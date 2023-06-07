@@ -61,6 +61,10 @@
 .setting-sections div > h4 {
   font-weight: 300;
 }
+.page-sections div:hover,
+.setting-sections div:hover {
+  cursor: pointer;
+}
 .page-sections div,
 .setting-sections div {
   display: flex;
